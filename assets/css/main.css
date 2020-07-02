@@ -142,7 +142,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 3.5em;
+		font-size: 2.5em;
 		margin: 0 0 1.1em 0;
 		line-height: 1em;
 	}
@@ -2194,7 +2194,8 @@ input, select, textarea {
 		/* Image */
 
 			.image.left {
-				width: 25%;
+				width: auto;
+				display: table;
 				margin-bottom: 2em !important;
 			}
 
@@ -2494,7 +2495,7 @@ input, select, textarea {
 			}
 
 			h2, h3, h4, h5, h6 {
-				font-size: 13pt;
+				font-size: 25pt;
 				margin: 0 0 1em 0;
 			}
 
