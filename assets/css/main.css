@@ -186,6 +186,9 @@ input, select, textarea {
 		border-left: solid 0.5em #eee;
 		padding: 1em 0 1em 2em;
 		font-style: italic;
+		width: auto;
+		display: table;
+		text-align: center;
 	}
 
 	p, ul, ol, dl, table {
