@@ -1,18 +1,32 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
 .jumbotron{
+    text-align: center;
     margin-top: 1em;
+    background-color: #f8f8f842;
+    background-image: url(pictures/hair-salon.jpeg);
+    background-position: center;
 }
 #logo{
-    text-align: center;
     font-size: 3.25em;
-    padding: 5%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    letter-spacing: 3px;
 }
 #about-me-heading{
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 1.75em;
+    margin-bottom: 0.5em;
 }
 #about-me{
     margin-bottom: 2em;
 }
 #services-heading{
     margin-bottom: 1em;
+}
+.btn-dark {
+    background-color: rgb(226, 105, 125);
+    border-color: rgb(226, 105, 125);
 }
