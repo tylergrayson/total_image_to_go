@@ -11,7 +11,7 @@ body{
 }
 #logo{
     font-size: 2.5em;
-    padding-top: 5%;
+    padding-top: 6%;
     padding-bottom: 2%;
     text-align: center;
     font-family: 'Lobster', cursive;
@@ -28,6 +28,6 @@ body{
     margin-bottom: 1em;
 }
 .btn-dark {
-    background-color: rgb(226, 105, 125);
-    border-color: rgb(226, 105, 125);
+    background-color: rgb(218, 86, 108);
+    border-color: rgb(218, 86, 108);
 }
